@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AboutShareDialog.iml" filepath="$PROJECT_DIR$/AboutShareDialog.iml" />
-      <module fileurl="file://$PROJECT_DIR$/AboutShareDialog/AboutShareDialog-AboutShareDialog.iml" filepath="$PROJECT_DIR$/AboutShareDialog/AboutShareDialog-AboutShareDialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HTMLAboutShareDialog.iml" filepath="$PROJECT_DIR$/HTMLAboutShareDialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HTMLAboutShareDialog/HTMLAboutShareDialog-HTMLAboutShareDialog.iml" filepath="$PROJECT_DIR$/HTMLAboutShareDialog/HTMLAboutShareDialog-HTMLAboutShareDialog.iml" />
     </modules>
   </component>
 </project>

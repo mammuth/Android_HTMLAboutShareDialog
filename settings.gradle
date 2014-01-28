@@ -1,1 +1,1 @@
-include ':AboutShareDialog'
+include 'HTMLAboutShareDialog'
