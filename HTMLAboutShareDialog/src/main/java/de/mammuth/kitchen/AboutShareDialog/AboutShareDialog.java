@@ -26,6 +26,7 @@ public class AboutShareDialog {
     private static Activity activity = null;
     private static String version = "";
     public static final String aboutURL = "http://www.maxi-muth.de/android/tankstellen-sparfuchs/about.html";
+    // For a local html-file (in the assets-folder) use "file:///android_asset/offline-about.html"
     public static final String facebookID = "";
     public static final String twitterID = "";
 
