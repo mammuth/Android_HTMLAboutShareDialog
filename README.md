@@ -5,4 +5,4 @@ Class that makes About and Share-Dialoges with the Android Framework. With easy 
 
 Usage:
 
-Just add the AboutShareDialog Class to your Project.
+Just add the Class AboutShareDialog.java from the src directory of this repository to your project.
