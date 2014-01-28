@@ -18,14 +18,15 @@ How To Use:
 
 2.2 or in the Android asset folder
 
+3 Implement it
 
 
 > AboutShareDialog myDialog = new AboutShareDialog(this);
 
-> myDialog.aboutDialog();
+> 1. myDialog.aboutDialog();
 
-> myDialog.openTwitterIntent();
+> 2. myDialog.openTwitterIntent();
 
-> myDialog.sentmail(null);
+> 3. myDialog.sentmail(null);
 
-> myDialog.shareWithFriends(null);
+> 4. myDialog.shareWithFriends(null);
