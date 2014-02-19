@@ -7,6 +7,7 @@ What it does:
 ----
 The class AboutShareDialog is just a little part of my Android-Kitchen, that gives you an easy way to display beautiful about-, rating- or sharing- etc. dialoges build with html.
 
+![My image](http://www.maxi-muth.de/wordpress/wp-content/uploads/2014/02/Nexus-5-White-Tilted-Left-1024x1024.jpg)
 
 How To Use:
 ----
